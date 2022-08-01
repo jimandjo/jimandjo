@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimandjo
-- 👀 I’m interested in ...Full Stack Development
-- 🌱 I’m currently learning ... I  started at Bethel School of Technology January 10, 2022
+- 👀 I’m interested in developing my skills in React | Backend Dev | AWS architecture
+- 🌱 I will graduate from Bethel School of Technology October 2022
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : jimandjo.geo@yahoo.com
 
