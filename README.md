@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jimandjo
 - 👀 I’m interested in developing my skills in React | Backend Dev | AWS architecture
 - 🌱 I graduated from Bethel School of Technology October 2022
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me : jimandjo.geo@yahoo.com
 
 
