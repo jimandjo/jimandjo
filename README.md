@@ -1,4 +1,4 @@
-- 👋 <h1>Hi, I’m @jimandjo</h1>
+-  <h1>Hi, I’m @jimandjo</h1>
 - 👀 I’m interested in developing my skills in React | Backend Dev | AWS architecture
 - 🌱 I graduated from Bethel School of Technology October 2022
 - 💞️ I’m looking to collaborate on ... open source projects
